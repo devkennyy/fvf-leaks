@@ -10,26 +10,28 @@
 > [!IMPORTANT]
 > We do not condone or support any activities that may harm the game, its developers, or its community.
 
-## Folder Structure
-
-- [textures](/textures)
-  - [cardbacks](/textures/cardbacks)
-  - [buff](/textures/cards/buff)
-    - [unreleased](/textures/cards/buff/unreleased)
-  - [debuff](/textures/cards/debuff)
-    - [unreleased](/textures/cards/debuff/unreleased)
-  - [helper](/textures/cards/helper)
-  - [personality](/textures/cards/personality)
-    - [unreleased](/textures/cards/personality/unreleased)
-  - [trap](/textures/cards/trap)
-    - [unreleased](/textures/cards/trap/unreleased)
-  - [weapon](/textures/cards/weapon)
-    - [unreleased](/textures/cards/weapon/unreleased)
-  - [wild](/textures/cards/wild)
-    - [unreleased](/textures/cards/wild/unreleased)
-  - [characters](/textures/characters)
-
 </div>
 
+## 📂 Folder Structure
+
+```
+└── textures/
+    ├── cardbacks
+    ├── cards/
+    │   ├── buff/
+    │   │   └── unreleased
+    │   ├── debuff/
+    │   │   └── unreleased
+    │   ├── helper
+    │   ├── personality/
+    │   │   └── unreleased
+    │   ├── trap/
+    │   │   └── unreleased
+    │   ├── weapon/
+    │   │   └── unreleased
+    │   └── wild/
+    │       └── unreleased
+    └── characters
+```
 
 
