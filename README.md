@@ -15,6 +15,7 @@
 ## 📂 Folder Structure
 
 ```
+├── changelogs
 └── textures/
     ├── cardbacks
     ├── cards/
